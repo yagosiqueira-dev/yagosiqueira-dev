@@ -1,16 +1,46 @@
-## Hi there 👋
+# Olá! Eu sou o Yago 👋
 
-<!--
-**yagosiqueira-dev/yagosiqueira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi.
 
-Here are some ideas to get you started:
+💻 Desenvolvedor Backend em formação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente estudando:
+
+- Java
+- Spring Boot
+- MySQL
+- SQL
+- Docker
+- Git
+- GitHub
+- APIs REST
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade como Desenvolvedor Backend (Estágio/Júnior), aplicando meus conhecimentos em Java e Spring Boot para desenvolver soluções de qualidade e continuar evoluindo profissionalmente.
+
+## 🛠 Tecnologias
+
+- Java
+- Spring Boot
+- MySQL
+- SQL
+- Git
+- GitHub
+- Docker
+- IntelliJ IDEA
+- Postman
+
+## 📚 Atualmente
+
+- Desenvolvendo projetos para fortalecer meu portfólio.
+- Aprimorando conhecimentos em Java e Spring Boot.
+- Estudando boas práticas de desenvolvimento e arquitetura de APIs REST.
+
+## 📫 Contato
+
+LinkedIn:
+https://www.linkedin.com/in/yago-machado-siqueira/
+
+Email:
+yagomachado847@gmail.com
