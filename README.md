@@ -1,46 +1,65 @@
-# Olá! Eu sou o Yago 👋
+# Olá, eu sou o Yago Machado Siqueira 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi.
+💻 **Desenvolvedor Backend em formação**  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - Universidade Anhembi Morumbi  
+📍 São Paulo - Brasil  
+🚀 Em busca da minha primeira oportunidade como Desenvolvedor Backend (Estágio/Júnior)
 
-💻 Desenvolvedor Backend em formação.
+---
 
-🚀 Atualmente estudando:
+## 👨‍💻 Sobre mim
 
-- Java
-- Spring Boot
-- MySQL
-- SQL
-- Docker
-- Git
-- GitHub
-- APIs REST
+Sou estudante de ADS apaixonado por tecnologia e desenvolvimento Backend. Atualmente estou focado em aprofundar meus conhecimentos em Java, Spring Boot, bancos de dados e APIs REST, desenvolvendo projetos para fortalecer meu portfólio e aplicar boas práticas de programação.
 
-## 🎯 Objetivo
+Além da graduação, busco aprender continuamente por meio de cursos, projetos práticos e desafios que me preparem para atuar profissionalmente como desenvolvedor.
 
-Busco minha primeira oportunidade como Desenvolvedor Backend (Estágio/Júnior), aplicando meus conhecimentos em Java e Spring Boot para desenvolver soluções de qualidade e continuar evoluindo profissionalmente.
+---
 
-## 🛠 Tecnologias
+## 🚀 Tecnologias que estou estudando
 
-- Java
-- Spring Boot
-- MySQL
-- SQL
-- Git
-- GitHub
-- Docker
-- IntelliJ IDEA
-- Postman
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,github,maven,idea,postman,vscode" />
+</p>
 
-## 📚 Atualmente
+---
 
-- Desenvolvendo projetos para fortalecer meu portfólio.
-- Aprimorando conhecimentos em Java e Spring Boot.
-- Estudando boas práticas de desenvolvimento e arquitetura de APIs REST.
+## 📚 Atualmente estudando
 
-## 📫 Contato
+- ☕ Java
+- 🌱 Spring Boot
+- 🔗 APIs REST
+- 🗄️ MySQL
+- 🐳 Docker
+- 🌿 Git e GitHub
+- 🧪 Postman
+- 🧱 Programação Orientada a Objetos
+- 📖 SQL
 
-LinkedIn:
-https://www.linkedin.com/in/yago-machado-siqueira/
+---
 
-Email:
-yagomachado847@gmail.com
+## 🎯 Objetivos para 2026
+
+- ✔ Conseguir minha primeira oportunidade como Desenvolvedor Backend
+- ✔ Aprimorar conhecimentos em Spring Boot
+- ✔ Desenvolver projetos completos utilizando Java
+- ✔ Aprender testes automatizados (JUnit)
+- ✔ Estudar arquitetura de software e microsserviços
+- ✔ Evoluir constantemente como desenvolvedor
+
+---
+
+## 🤝 Vamos nos conectar
+
+<p>
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução como desenvolvedor.
