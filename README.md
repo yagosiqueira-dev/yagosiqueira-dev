@@ -51,11 +51,11 @@ Além da graduação, busco aprender continuamente por meio de cursos, projetos 
 ## 🤝 Vamos nos conectar
 
 <p>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+<a href="(https://www.linkedin.com/in/yago-machado-siqueira/)" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:yagomachado847@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
