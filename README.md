@@ -46,12 +46,10 @@ Além da graduação, busco aprender continuamente por meio de cursos, projetos 
 - ✔ Estudar arquitetura de software e microsserviços
 - ✔ Evoluir constantemente como desenvolvedor
 
----
-
 ## 🤝 Vamos nos conectar
 
 <p>
-<a href="(https://www.linkedin.com/in/yago-machado-siqueira/)" target="_blank">
+<a href="https://www.linkedin.com/in/yago-machado-siqueira/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
