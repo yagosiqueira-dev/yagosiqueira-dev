@@ -104,15 +104,6 @@ API REST desenvolvida em **Java + Spring Boot** para gerenciamento de estoque de
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yagosiqueira-dev&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagosiqueira-dev&layout=compact&hide_border=true"/>
-</p>
-
----
-
 ## 🤝 Vamos nos conectar
 
 <p align="center">
