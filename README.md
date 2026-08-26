@@ -1,11 +1,10 @@
 <<p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=white&text=Yago%20Machado%20Siqueira&fontColor=4B5563&fontSize=50&section=header&reversal=true&fontAlign=50&fontAlignY=32&animation=twinkling&desc=BACKEND%20DEVELOPER%20%7C%20JAVA%20%7C%20SPRING%20BOOT&descColor=6B7280&descAlign=50&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=white&text=Yago%20Machado%20Siqueira&fontColor=4B5563&fontSize=50&section=header&reversal=true&fontAlign=50&fontAlignY=32&animation=twinkling&desc=Backend%20Developer%20%7C%20JAVA%20%7C%20Spring%20BootT&descColor=6B7280&descAlign=50&descSize=20"
     width="100%"
     alt="Yago Machado Siqueira"
   />
 </p>
-
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1"
