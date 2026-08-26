@@ -1,21 +1,19 @@
-<!-- ===================== HEADER ===================== -->
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0B1020&text=%E2%98%84%20YAGO%20MACHADO%20SIQUEIRA%20%E2%98%84&fontColor=58A6FF&fontSize=42&fontAlignY=42&animation=twinkling&desc=BACKEND%20DEVELOPER%20%7C%20JAVA%20%7C%20SPRING%20BOOT&descSize=19&descAlignY=62"
+    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=white&text=Yago%20Machado%20Siqueira&fontSize=50&section=header&reversal=true&fontAlign=50&fontAlignY=32&animation=twinkling&desc=BACKEND%20DEVELOPER%20%7C%20JAVA%20%7C%20SPRING%20BOOT&descAlign=50&descSize=20"
     width="100%"
+    alt="Yago Machado Siqueira"
   />
 </p>
 
-<!-- ===================== ANIMATED BANNER ===================== -->
-
 <p align="center">
   <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1"
     width="100%"
-    alt="Coding animation"
+    alt="MidnightOwl"
   />
 </p>
+
 
 ---
 
