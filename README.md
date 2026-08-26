@@ -1,15 +1,19 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&height=180&lines=Yago+Machado+Siqueira;Backend+Developer+%7C+Java+%7C+Spring+Boot;Building+Backend+Solutions+%F0%9F%9A%80"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0B1020&text=%E2%98%84%20YAGO%20MACHADO%20SIQUEIRA%20%E2%98%84&fontColor=58A6FF&fontSize=42&fontAlignY=42&animation=twinkling&desc=BACKEND%20DEVELOPER%20%7C%20JAVA%20%7C%20SPRING%20BOOT&descSize=19&descAlignY=62"
     width="100%"
   />
 </p>
 
+<!-- ===================== ANIMATED BANNER ===================== -->
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1500&color=8B949E&center=true&vCenter=true&width=700&height=40&lines=Spring+Security+%7C+JWT+%7C+PostgreSQL+%7C+Docker"
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="100%"
+    alt="Coding animation"
   />
 </p>
 
@@ -23,14 +27,13 @@
 </p>
 
 <p align="center">
-  Meu foco está no desenvolvimento de aplicações utilizando
+  Focado no desenvolvimento de aplicações com
   <strong>Java + Spring Boot</strong>, APIs REST, segurança,
   bancos de dados, testes automatizados e Docker.
 </p>
 
 <p align="center">
-  🚀 Buscando minha primeira oportunidade como
-  <strong>Estagiário ou Desenvolvedor Backend Júnior</strong>.
+  🚀 Buscando oportunidade como <strong>Estagiário / Backend Júnior</strong>.
 </p>
 
 ---
@@ -44,7 +47,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-58A6FF?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white"/>
 <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white"/>
@@ -58,14 +61,26 @@
 
 <p align="center">
 
+<a href="https://github.com/yagosiqueira-dev">
+
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=yagosiqueira-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+  src="https://github-readme-stats-fast.vercel.app/api?username=yagosiqueira-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
 />
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagosiqueira-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yagosiqueira-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10"
+/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats-fast.vercel.app/api/streak/?username=yagosiqueira-dev&theme=tokyonight&hide_border=true&border_radius=10"
 />
 
 </p>
@@ -81,9 +96,9 @@ API REST para gerenciamento de estoque de medicamentos e materiais hospitalares.
 **Java • Spring Boot • MySQL • JPA • Docker • JUnit • Mockito • Swagger**
 
 <p>
-  <a href="https://github.com/yagosiqueira-dev/hospital-stock-api">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/yagosiqueira-dev/hospital-stock-api">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -95,9 +110,9 @@ API REST para gerenciamento de consultas médicas com autenticação e autoriza�
 **Java • Spring Boot • Spring Security • JWT • JPA • MySQL • Docker**
 
 <p>
-  <a href="https://github.com/yagosiqueira-dev/medical-appointment-api">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/yagosiqueira-dev/medical-appointment-api">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -118,7 +133,12 @@ Sistema de gerenciamento de fretes desenvolvido a partir de uma necessidade real
 
 <p align="center">
 
-`Java` • `Spring Boot` • `Spring Security` • `JWT` • `PostgreSQL` • `Docker` • `Software Architecture`
+☕ Java &nbsp;•&nbsp;
+🌱 Spring Boot &nbsp;•&nbsp;
+🔐 Spring Security & JWT &nbsp;•&nbsp;
+🐘 PostgreSQL &nbsp;•&nbsp;
+🐳 Docker &nbsp;•&nbsp;
+🏗️ Software Architecture
 
 </p>
 
@@ -129,25 +149,24 @@ Sistema de gerenciamento de fretes desenvolvido a partir de uma necessidade real
 <p align="center">
 
 <a href="https://www.linkedin.com/in/yago-machado-siqueira/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:yagomachado847@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://github.com/yagosiqueira-dev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </p>
 
----
+<!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=%3E+Always+building.+Always+learning.+%F0%9F%9A%80"
-/>
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0B1020&section=footer"
+    width="100%"
+  />
 </p>
