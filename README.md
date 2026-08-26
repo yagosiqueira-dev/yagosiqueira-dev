@@ -1,17 +1,15 @@
-<!-- ===================== HEADER ===================== -->
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0D1117&text=Yago%20Machado%20Siqueira&fontColor=58A6FF&fontSize=42&animation=twinkling&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descSize=20&descAlignY=65"
-  width="100%"
-/>
-
-<!-- ===================== ANIMATED BANNER ===================== -->
+<!-- ===================== ANIMATED HEADER ===================== -->
 
 <p align="center">
   <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&height=180&lines=Yago+Machado+Siqueira;Backend+Developer+%7C+Java+%7C+Spring+Boot;Building+Backend+Solutions+%F0%9F%9A%80"
     width="100%"
-    alt="Coding animation"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1500&color=8B949E&center=true&vCenter=true&width=700&height=40&lines=Spring+Security+%7C+JWT+%7C+PostgreSQL+%7C+Docker"
   />
 </p>
 
@@ -25,18 +23,19 @@
 </p>
 
 <p align="center">
-  Focado em construir APIs e aplicações backend com
-  <strong>Java + Spring Boot</strong>, aplicando conceitos de
-  segurança, bancos de dados, testes e Docker.
+  Meu foco está no desenvolvimento de aplicações utilizando
+  <strong>Java + Spring Boot</strong>, APIs REST, segurança,
+  bancos de dados, testes automatizados e Docker.
 </p>
 
 <p align="center">
-  🚀 Buscando oportunidade de <strong>Estágio / Backend Júnior</strong>.
+  🚀 Buscando minha primeira oportunidade como
+  <strong>Estagiário ou Desenvolvedor Backend Júnior</strong>.
 </p>
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github,maven,idea,postman" />
@@ -60,21 +59,13 @@
 <p align="center">
 
 <img
+  height="170"
   src="https://github-readme-stats.vercel.app/api?username=yagosiqueira-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
-  height="170"
 />
 
 <img
+  height="170"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagosiqueira-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10"
-  height="170"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=yagosiqueira-dev&theme=tokyonight&hide_border=true&border_radius=10"
 />
 
 </p>
@@ -85,13 +76,15 @@
 
 ### 🏥 Hospital Stock API
 
-API REST para gerenciamento de estoque hospitalar.
+API REST para gerenciamento de estoque de medicamentos e materiais hospitalares.
 
 **Java • Spring Boot • MySQL • JPA • Docker • JUnit • Mockito • Swagger**
 
-<a href="https://github.com/yagosiqueira-dev/hospital-stock-api">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  <a href="https://github.com/yagosiqueira-dev/hospital-stock-api">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -101,15 +94,17 @@ API REST para gerenciamento de consultas médicas com autenticação e autoriza�
 
 **Java • Spring Boot • Spring Security • JWT • JPA • MySQL • Docker**
 
-<a href="https://github.com/yagosiqueira-dev/medical-appointment-api">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  <a href="https://github.com/yagosiqueira-dev/medical-appointment-api">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 🚚 Frete Flow
 
-<img src="https://img.shields.io/badge/IN%20DEVELOPMENT-F0883E?style=flat-square"/>
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-F0883E?style=flat-square"/>
 
 Sistema de gerenciamento de fretes desenvolvido a partir de uma necessidade real.
 
@@ -121,30 +116,38 @@ Sistema de gerenciamento de fretes desenvolvido a partir de uma necessidade real
 
 ## 📚 Currently Learning
 
-Java + Spring Boot
-REST APIs
-Spring Security + JWT
-PostgreSQL + Flyway
-Docker
-Software Architecture
-Automated Testing
+<p align="center">
+
+`Java` • `Spring Boot` • `Spring Security` • `JWT` • `PostgreSQL` • `Docker` • `Software Architecture`
+
+</p>
+
+---
 
 ## 🔗 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/yago-machado-siqueira/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:yagomachado847@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/yagosiqueira-dev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0D1117&section=footer" width="100%"/>
+---
+
+<p align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=%3E+Always+building.+Always+learning.+%F0%9F%9A%80"
+/>
+
+</p>
