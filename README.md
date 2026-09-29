@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=soft&height=190&color=000000&text=Yago%20Machado%20Siqueira&fontColor=4B5563&fontSize=50&section=header&reversal=true&fontAlign=50&fontAlignY=32&animation=twinkling&desc=Backend%20Developer%20%7C%20JAVA%20%7C%20Spring%20Boot&descColor=6B7280&descAlign=50&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=soft&height=130&color=000000&text=Yago%20Machado%20Siqueira&fontColor=4B5563&fontSize=50&section=header&reversal=true&fontAlign=50&fontAlignY=32&animation=twinkling&desc=Backend%20Developer%20%7C%20JAVA%20%7C%20Spring%20Boot&descColor=6B7280&descAlign=50&descSize=20"
     width="100%"
     alt="Yago Machado Siqueira"
   />
